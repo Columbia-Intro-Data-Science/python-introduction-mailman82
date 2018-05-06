@@ -1,0 +1,21 @@
+id,Category,Description
+0,TWN,Town
+1,YR,Year
+2,MSP,Median Sales Price
+3,PWP,Proximity to Work Place
+4,HDS,Housing Density
+5,HIR,Household Income Range
+6,SCH,School Ratings
+7,INF,Infrastructure Rating
+8,WSC,Walkability
+9,NCR,Number of Current Residents
+10,CHS,Charleston
+11,SI,Sullivans Island
+12,KI,Kiawah Island
+13,FOL,Folly Beach
+14,MTP,Mount Pleasant
+15,MNC,Monck's Corner
+16,SUM,Summerville
+17,HAN,Hanahan
+18,GC,Goose Creek
+19,NCH,North Carleston
